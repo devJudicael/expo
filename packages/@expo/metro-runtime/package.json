@@ -50,6 +50,7 @@
     "whatwg-fetch": "^3.0.0"
   },
   "devDependencies": {
+    "expo-module-scripts": "workspace:*",
     "react-dom": "19.2.0"
   }
 }
