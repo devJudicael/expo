@@ -31,12 +31,12 @@
   "homepage": "https://docs.expo.dev/versions/latest/sdk/clipboard",
   "dependencies": {},
   "devDependencies": {
-    "expo-module-scripts": "^5.0.7"
+    "expo-module-scripts": "workspace:*"
   },
   "peerDependencies": {
-    "expo": "*",
-    "react": "*",
-    "react-native": "*"
+    "expo": "workspace:*",
+    "react": "workspace:*",
+    "react-native": "workspace:*"
   },
   "jest": {
     "preset": "expo-module-scripts/universal"

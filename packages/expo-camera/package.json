@@ -37,12 +37,12 @@
     "invariant": "^2.2.4"
   },
   "devDependencies": {
-    "expo-module-scripts": "^5.0.7"
+    "expo-module-scripts": "workspace:*"
   },
   "peerDependencies": {
-    "expo": "*",
-    "react": "*",
-    "react-native": "*",
+    "expo": "workspace:*",
+    "react": "workspace:*",
+    "react-native": "workspace:*",
     "react-native-web": "*"
   },
   "peerDependenciesMeta": {

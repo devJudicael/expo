@@ -41,11 +41,11 @@
   "dependencies": {},
   "devDependencies": {
     "@testing-library/react-native": "^13.2.0",
-    "expo-module-scripts": "^5.0.7"
+    "expo-module-scripts": "workspace:*"
   },
   "peerDependencies": {
-    "expo": "*",
-    "react": "*"
+    "expo": "workspace:*",
+    "react": "workspace:*"
   },
   "jest": {
     "preset": "expo-module-scripts"

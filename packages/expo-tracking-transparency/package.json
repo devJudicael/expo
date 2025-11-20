@@ -30,11 +30,11 @@
   "license": "MIT",
   "homepage": "https://docs.expo.dev/versions/latest/sdk/tracking-transparency",
   "devDependencies": {
-    "expo-module-scripts": "^5.0.7"
+    "expo-module-scripts": "workspace:*"
   },
   "peerDependencies": {
-    "expo": "*",
-    "react-native": "*"
+    "expo": "workspace:*",
+    "react-native": "workspace:*"
   },
   "jest": {
     "preset": "expo-module-scripts"

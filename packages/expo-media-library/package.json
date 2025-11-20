@@ -38,11 +38,11 @@
     "preset": "expo-module-scripts"
   },
   "devDependencies": {
-    "expo-module-scripts": "^5.0.7"
+    "expo-module-scripts": "workspace:*"
   },
   "peerDependencies": {
-    "expo": "*",
-    "react-native": "*"
+    "expo": "workspace:*",
+    "react-native": "workspace:*"
   },
   "codegenConfig": {
     "name": "expo-media-library",

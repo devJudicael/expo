@@ -15,10 +15,10 @@
   "license": "MIT",
   "homepage": "https://docs.expo.dev",
   "dependencies": {
-    "expo-dev-menu": "7.0.11",
-    "expo-manifests": "~1.0.8"
+    "expo-dev-menu": "workspace:*",
+    "expo-manifests": "workspace:*"
   },
   "peerDependencies": {
-    "expo": "*"
+    "expo": "workspace:*"
   }
 }

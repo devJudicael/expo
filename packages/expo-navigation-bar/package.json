@@ -40,11 +40,11 @@
   },
   "devDependencies": {
     "@types/debug": "^4.1.7",
-    "expo-module-scripts": "^5.0.7"
+    "expo-module-scripts": "workspace:*"
   },
   "peerDependencies": {
-    "expo": "*",
-    "react": "*",
-    "react-native": "*"
+    "expo": "workspace:*",
+    "react": "workspace:*",
+    "react-native": "workspace:*"
   }
 }

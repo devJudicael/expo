@@ -33,13 +33,13 @@
   "license": "MIT",
   "homepage": "https://docs.expo.dev/versions/latest/sdk/task-manager/",
   "dependencies": {
-    "unimodules-app-loader": "~6.0.7"
+    "unimodules-app-loader": "workspace:*"
   },
   "devDependencies": {
-    "expo-module-scripts": "^5.0.7"
+    "expo-module-scripts": "workspace:*"
   },
   "peerDependencies": {
-    "expo": "*",
-    "react-native": "*"
+    "expo": "workspace:*",
+    "react-native": "workspace:*"
   }
 }

@@ -31,12 +31,12 @@
   "license": "MIT",
   "homepage": "https://docs.expo.dev/versions/latest/sdk/imagemanipulator/",
   "dependencies": {
-    "expo-image-loader": "~6.0.0"
+    "expo-image-loader": "workspace:*"
   },
   "devDependencies": {
-    "expo-module-scripts": "^5.0.7"
+    "expo-module-scripts": "workspace:*"
   },
   "peerDependencies": {
-    "expo": "*"
+    "expo": "workspace:*"
   }
 }

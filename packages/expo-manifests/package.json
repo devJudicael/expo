@@ -34,13 +34,13 @@
     "preset": "expo-module-scripts"
   },
   "dependencies": {
-    "@expo/config": "~12.0.9",
-    "expo-json-utils": "~0.15.0"
+    "@expo/config": "workspace:*",
+    "expo-json-utils": "workspace:*"
   },
   "devDependencies": {
-    "expo-module-scripts": "^5.0.7"
+    "expo-module-scripts": "workspace:*"
   },
   "peerDependencies": {
-    "expo": "*"
+    "expo": "workspace:*"
   }
 }

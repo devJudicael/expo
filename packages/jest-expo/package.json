@@ -37,8 +37,8 @@
     "preset": "jest-expo/universal"
   },
   "dependencies": {
-    "@expo/config": "~12.0.9",
-    "@expo/json-file": "^10.0.7",
+    "@expo/config": "workspace:*",
+    "@expo/json-file": "workspace:*",
     "@jest/create-cache-key-function": "^29.2.1",
     "@jest/globals": "^29.2.1",
     "babel-jest": "^29.2.1",
@@ -54,7 +54,7 @@
     "stacktrace-js": "^2.0.2"
   },
   "peerDependencies": {
-    "expo": "*",
-    "react-native": "*"
+    "expo": "workspace:*",
+    "react-native": "workspace:*"
   }
 }

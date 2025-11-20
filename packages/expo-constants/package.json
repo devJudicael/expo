@@ -43,14 +43,14 @@
     "preset": "expo-module-scripts"
   },
   "dependencies": {
-    "@expo/config": "~12.0.9",
-    "@expo/env": "~2.0.7"
+    "@expo/config": "workspace:*",
+    "@expo/env": "workspace:*"
   },
   "devDependencies": {
-    "expo-module-scripts": "^5.0.7"
+    "expo-module-scripts": "workspace:*"
   },
   "peerDependencies": {
-    "expo": "*",
-    "react-native": "*"
+    "expo": "workspace:*",
+    "react-native": "workspace:*"
   }
 }

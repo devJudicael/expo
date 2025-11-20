@@ -33,12 +33,12 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "expo-module-scripts": "^5.0.7"
+    "expo-module-scripts": "workspace:*"
   },
   "peerDependencies": {
-    "expo": "*",
-    "react": "*",
-    "react-native": "*",
-    "expo-asset": "*"
+    "expo": "workspace:*",
+    "react": "workspace:*",
+    "react-native": "workspace:*",
+    "expo-asset": "workspace:*"
   }
 }

@@ -32,19 +32,19 @@
     "build"
   ],
   "peerDependencies": {
-    "expo": "*"
+    "expo": "workspace:*"
   },
   "devDependencies": {
     "@types/debug": "^4.1.5",
     "@types/xml2js": "~0.4.11",
-    "expo-module-scripts": "^5.0.7"
+    "expo-module-scripts": "workspace:*"
   },
   "dependencies": {
-    "@expo/config": "~12.0.9",
-    "@expo/config-plugins": "~54.0.1",
-    "@expo/config-types": "^54.0.8",
-    "@expo/image-utils": "^0.8.7",
-    "@expo/json-file": "^10.0.7",
+    "@expo/config": "workspace:*",
+    "@expo/config-plugins": "workspace:*",
+    "@expo/config-types": "workspace:*",
+    "@expo/image-utils": "workspace:*",
+    "@expo/json-file": "workspace:*",
     "@react-native/normalize-colors": "0.83.0-nightly-20251104-502efe1cc",
     "debug": "^4.3.1",
     "resolve-from": "^5.0.0",
