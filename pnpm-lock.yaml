@@ -2614,6 +2614,12 @@ importers:
         specifier: 8.0.0-3
         version: 8.0.0-3
     devDependencies:
+      '@expo/dom-webview':
+        specifier: workspace:*
+        version: link:../@expo/dom-webview
+      '@expo/metro-runtime':
+        specifier: workspace:*
+        version: link:../@expo/metro-runtime
       '@types/node':
         specifier: ^22.14.0
         version: 22.14.0
