@@ -2032,6 +2032,9 @@ importers:
         specifier: ^2.2.0
         version: 2.2.0
     devDependencies:
+      '@types/node':
+        specifier: ^22.14.0
+        version: 22.14.0
       expo-module-scripts:
         specifier: workspace:*
         version: link:../../expo-module-scripts
